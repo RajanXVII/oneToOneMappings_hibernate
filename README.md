@@ -1,0 +1,1 @@
+# oneToOneMappings_hibernate
